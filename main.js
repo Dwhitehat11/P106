@@ -1,0 +1,1 @@
+https//teachablemachine.withgoogle.com/models/yDtlv5-ni/
